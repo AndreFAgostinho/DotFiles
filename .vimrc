@@ -7,7 +7,7 @@ call plug#begin()
 Plug 'tpope/vim-sensible'
 
 " youcompleteme plugin
-Plug 'valloric/youcompleteme'
+"Plug 'valloric/youcompleteme'
 
 " File explorer
 Plug 'scrooloose/nerdtree'
